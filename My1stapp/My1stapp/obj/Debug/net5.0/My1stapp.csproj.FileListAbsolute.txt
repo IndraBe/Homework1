@@ -1,0 +1,16 @@
+C:\C# projects\Homework1\My1stapp\My1stapp\bin\Debug\net5.0\My1stapp.exe
+C:\C# projects\Homework1\My1stapp\My1stapp\bin\Debug\net5.0\My1stapp.deps.json
+C:\C# projects\Homework1\My1stapp\My1stapp\bin\Debug\net5.0\My1stapp.runtimeconfig.json
+C:\C# projects\Homework1\My1stapp\My1stapp\bin\Debug\net5.0\My1stapp.runtimeconfig.dev.json
+C:\C# projects\Homework1\My1stapp\My1stapp\bin\Debug\net5.0\My1stapp.dll
+C:\C# projects\Homework1\My1stapp\My1stapp\bin\Debug\net5.0\ref\My1stapp.dll
+C:\C# projects\Homework1\My1stapp\My1stapp\bin\Debug\net5.0\My1stapp.pdb
+C:\C# projects\Homework1\My1stapp\My1stapp\obj\Debug\net5.0\My1stapp.csproj.AssemblyReference.cache
+C:\C# projects\Homework1\My1stapp\My1stapp\obj\Debug\net5.0\My1stapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# projects\Homework1\My1stapp\My1stapp\obj\Debug\net5.0\My1stapp.AssemblyInfoInputs.cache
+C:\C# projects\Homework1\My1stapp\My1stapp\obj\Debug\net5.0\My1stapp.AssemblyInfo.cs
+C:\C# projects\Homework1\My1stapp\My1stapp\obj\Debug\net5.0\My1stapp.csproj.CoreCompileInputs.cache
+C:\C# projects\Homework1\My1stapp\My1stapp\obj\Debug\net5.0\My1stapp.dll
+C:\C# projects\Homework1\My1stapp\My1stapp\obj\Debug\net5.0\ref\My1stapp.dll
+C:\C# projects\Homework1\My1stapp\My1stapp\obj\Debug\net5.0\My1stapp.pdb
+C:\C# projects\Homework1\My1stapp\My1stapp\obj\Debug\net5.0\My1stapp.genruntimeconfig.cache
